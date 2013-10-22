@@ -1,0 +1,8 @@
+{
+  "modules" : { 
+    "proverbe"  : {
+      "description": "Un proverbe?",
+      "version"    : "1.0"
+    }
+  }
+}

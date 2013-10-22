@@ -1,0 +1,8 @@
+{
+  "modules" : { 
+    "excuse"  : {
+      "description": "Une excuse?",
+      "version"    : "1.0"
+    }
+  }
+}
