@@ -1,0 +1,8 @@
+{
+  "modules" : { 
+    "chuck"  : {
+      "description": "Un pti chuck Fact?",
+      "version"    : "1.0"
+    }
+  }
+}
